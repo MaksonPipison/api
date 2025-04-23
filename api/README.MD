@@ -63,7 +63,3 @@ The following endpoints are implemented to manage subscribers:
 - A custom header (`X-Admin-Auth: MobileAdminToken`) is included in all requests to simulate admin authentication.
 - JSON serialization is handled using `kotlinx-serialization`.
 - The CIO engine is used for the Ktor Client.
-
-## GitHub Repository
-
-The source code is available at: `<Insert your GitHub repository URL here>`
